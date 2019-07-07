@@ -60,7 +60,7 @@ const Button = styled.button`
   }
 `;
 
-// Création d'Array vide afin de stocké les futures messages soumis
+// Création d'un Array vide afin de stocké les futures messages soumis
 const itemArray = [];
 
 // -------                  COMPONENT                    ------- //
